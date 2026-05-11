@@ -1,6 +1,6 @@
 # Python-Projects
 # Working on python
-I have been learning python and learned few basic strcutures that I have represented in here. 
+I have been learning python and learned few basic strcutures that I have represented here. 
 
 Project: 1 
 In this project, I have retrived file from github and open that fasta file on jupyter notebook. 
