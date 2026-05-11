@@ -1,24 +1,15 @@
-# Python  Mini-Projects
-# Working on python
+# Python Mini-Projects
+
 A Python-based bioinformatics project for analyzing DNA sequences from FASTA files. The tool calculates GC content, estimates molecular weight, handles ambiguous nucleotide bases, and visualizes sequence statistics using bar graphs.
 
-Project: 1 
-In this project, I have retrived file from github and open that fasta file on jupyter notebook. 
+Project 1: DNA Sequence Analysis Using Biopython
 
-Tools: Jupytre Notebook
-Initialize : Biopython library 
+Developed a bioinformatics project in Python using Biopython within Jupyter Notebook to analyze DNA sequences from FASTA files retrieved from GitHub. The project involved parsing genetic sequence data, identifying the total number of genes, and calculating the highest and lowest GC content along with corresponding gene IDs. Additionally, molecular weight analysis was performed to determine genes with the highest and lowest molecular weights. Implemented troubleshooting methods to detect and handle ambiguous nucleotide bases present in orchid DNA sequences.
 
-Task  1 : I found Total Number of genes.
-Task 2 : I have found highest and lowest GC content of gene with its ID.
-Task 3 : I have found highest and lowest moelcular weight of gene with its ID.
-Task 4 : I have troubleshot for ambiguity bases in the orchid sequences.
+Tools & Technologies: Python, Jupyter Notebook, Biopython, FASTA File Processing, Data Analysis
 
+Project 2: Sequence Visualization and Protein Analysis
 
-Projects : 2 
-In this project, I have designed the plots from Eubacterium Vetriosum fasta file. 
+Designed and developed a bioinformatics visualization project using Python, Biopython, and Matplotlib in Jupyter Notebook. The project analyzed Eubacterium ventriosum FASTA sequences by counting nucleotide frequencies across the genome and visualizing the distribution through bar graphs. Performed transcription and translation processes to identify protein sequences and generated graphical representations of protein occurrence and composition.
 
-Tools : Jupyter Notebook
-Initialize: Biopython and matplotlibrary
-
-Task 1 : I have open the fasta file, counted each nucleotides in the whole sequence and plot a bar graph out of it. 
-Task 2 : I Conducted transcription, translation and found the all proteins and plot a bar graph out of it.
+Tools & Technologies: Python, Jupyter Notebook, Biopython, Matplotlib, Data Visualization, FASTA Sequence Analysis
